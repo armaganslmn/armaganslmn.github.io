@@ -1,0 +1,30 @@
+body {
+    max-width:80vw; 
+    max-width:800px; 
+    margin:auto; 
+    background-color:#15202b; 
+    color: white; 
+    font: 15px/22px 'Helvetica Neue', sans-serif;
+    color: lightcyan;
+}
+
+img {
+    max-width:100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: lightslategrey;
+}
+
+/* unvisited link */
+a:link {
+  color: #b8e13b;
+}
+
+a:visited {
+    color: olivedrab;
+}
+
+.date-name {
+    font-size: 12px;
+}
