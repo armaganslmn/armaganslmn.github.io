@@ -1,6 +1,6 @@
 body {
     max-width:80vw; 
-    max-width:800px; 
+    max-width:625px;
     margin:auto; 
     background-color:#15202b; 
     color: white; 
@@ -13,7 +13,7 @@ img {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: sienna;
+    color: lightsalmon;
 }
 
 /* unvisited link */
