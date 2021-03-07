@@ -2,7 +2,7 @@ body {
     max-width:80vw; 
     max-width:625px;
     margin:auto; 
-    background-color:#15202b; 
+    background-color:#0d1117 /* Old value: #15202b; */ /* #0d1117 == Github dark background color. 2021-03*/
     color: white; 
     font: 16px/22px 'Helvetica Neue', sans-serif;
     /*color: lightcyan;*/
