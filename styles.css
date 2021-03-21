@@ -13,16 +13,16 @@ img {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: lightsalmon;
+    color: #8a2c2c;  /* lightsalmon; */
 }
 
 /* unvisited link */
 a:link {
-  color: #0077aa;/* #b8e13b; */
+  color: #0077aa;  /* #b8e13b; */
 }
 
 a:visited {
-    color: #CA1A70; /* olivedrab; */
+    color: #84395e;  /* #75284e; */ /* #CA1A70; */ /* olivedrab; */
 }
 
 .date-name {
