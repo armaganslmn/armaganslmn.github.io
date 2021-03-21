@@ -3,7 +3,7 @@ body {
     max-width:650px; /*625px*/
     margin:auto; 
     background-color:#04060a; /* Old value: #15202b; */ /* #0d1117 == Github dark background color. 2021-03*/ /* #04060a == Darker github background color. 2021-03 */
-    color: #7d7979;  /* #454545; */ /*white; */ /* #d9d9d9 maybe? */
+    color: #97a7a7;  /* #7d7979; */  /* #454545; */ /*white; */ /* #d9d9d9 maybe? */
     font: 16px/22px 'Open Sans', sans-serif;
     /*color: lightcyan;*/
 }
@@ -13,7 +13,7 @@ img {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #8a2c2c;  /* lightsalmon; */
+    color: #c55353;  /* #8a2c2c; */  /* lightsalmon; */
 }
 
 /* unvisited link */
